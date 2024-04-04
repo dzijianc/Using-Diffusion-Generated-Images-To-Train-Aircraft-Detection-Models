@@ -1,1 +1,1 @@
-# Improving-Object-Detection-Training-With-Diffusion-Images
+# Improving-Airplane-Detection-Training-With-Diffusion-Images
